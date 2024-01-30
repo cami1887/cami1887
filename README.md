@@ -1,9 +1,11 @@
 # Hi I'm Camille! ✌️
+[![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-lacaden-062878251/)
 [![Gmail Badge](https://img.shields.io/badge/-cami1887@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cami1887@gmail.com)](mailto:cami1887@gmail.com)
 
+<br>
 My name is Camille Lacaden and I'm based in Portland Oregon as a Junior Software Engineer. I've been mentored to be a software engineer since October 2022 and am still learning every day. I love to build web applications from start to finish. Creative projects are a favorite of mine as I love to try out new technologies. 
 
-## ☁️ Technologies I’m currently learning ☁️ 
+## ☁️ The Technologies I Use ☁️ 
 - 🌱 JavaScript
 - 🌱 CSS
 - 🌱 HTML
